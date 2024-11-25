@@ -17,6 +17,7 @@
 
 
 ## What I Did
+- git-action을 이용해 CICD 구축
 - 로그인/회원가입 로직 구현
 - Chat GPT API를 이용해 리뷰 품질 향상 로직 구현
 
